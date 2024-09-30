@@ -325,7 +325,7 @@
     }
   
     100% {
-      transform: translateY(100%);
+      transform: translateY(70%);
       background-color: var(--eerie-black-2);
     }
   
